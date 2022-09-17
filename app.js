@@ -1,4 +1,5 @@
 $("#table").DataTable({
+  //method for the request
   processing: true,
   serverSide: true,
   ajax: {
@@ -6,6 +7,7 @@ $("#table").DataTable({
     url: "/model/json-receive.php",
   },
 
+  // render my table
   columns: [
     { data: "id" },
     { data: "personnage_nom" },
