@@ -1,0 +1,16 @@
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.bootstrap-table .fixed-table-container .fixed-table-body {
+    overflow: hidden;
+}
+
+#cont {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

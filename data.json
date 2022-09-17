@@ -1,0 +1,34 @@
+{
+    "draw": 1,
+    "recordsTotal": 4,
+    "recordsFiltered": 4,
+    "data": [{
+        "id": 41528,
+        "personnage_nom": "Zeus",
+        "image": "Zeus2.png",
+        "description": "Zeus est le roi des dieux dans la mythologie grecque. Il est le frère de Hadès, de Poséidon, de Déméter, de Hestia et de Héra qui est également sa femme."
+
+    },
+    {
+        "id": 74851,
+        "personnage_nom": "Hercule",
+        "image": "Hercule.jpg",
+        "description": "Les plus célèbres de ses exploits sont les douze travaux. Il est mentionné dans la littérature grecque dès Homère." 
+
+    },
+    {
+        "id": 95852,
+        "personnage_nom": "Appolon",
+        "image": "Apollon.png",
+        "description": "Apollon est un dieu doté de multiples facettes. Il est le patron des arts et des Muses, associé à la lumière du soleil et réputé pour sa beauté."
+
+    },
+    {
+        "id": 41527894,
+        "personnage_nom": "Athéna",
+        "image": "Lhistoire-fascinante-dAthena-deesse-grecque-de-la-sagesse.jpg",
+        "description": "Elle est également appelée « Pallas Athéna », déesse de la sagesse, de la stratégie militaire, des artisans, des artistes et des maîtres d'école."
+
+    }]
+
+}
